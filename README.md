@@ -71,13 +71,13 @@ Found that:
 
 ### 6. Modeling
 * K-Nearest Neighbors (KNN) Regression
-  ** Used KNeighborsRegressor from sklearn.
-  ** Set k=3 (neighbors).
-  ** Trained and tested the model using an 80-20 train-test split.
+  * Used KNeighborsRegressor from sklearn.
+  * Set k=3 (neighbors).
+  * Trained and tested the model using an 80-20 train-test split.
 
 * Linear Regression
-  ** Used LinearRegression from sklearn.
-  ** Evaluated on the same train-test split for comparison.
+  * Used LinearRegression from sklearn.
+  * Evaluated on the same train-test split for comparison.
 
 ## Evaluation Metrics
   I used the following metrics:
